@@ -1,0 +1,99 @@
+id: 9f07265e551343a8bba7cf97e8e1a4e2
+annotation_type: Language
+revision: '00001'
+annotations:
+  522024ad1916490d9860cfabd9cd9d10:
+    span:
+      start: 39
+      end: 160
+    language: en
+  2f650f9ccaeb45288ff05c8e1cc18803:
+    span:
+      start: 225
+      end: 594
+    language: en
+  beb4c5d6073c472da318072e9120ff8a:
+    span:
+      start: 78514
+      end: 78545
+    language: und
+  1384224ba7f74e7da273be6e494bdcaa:
+    span:
+      start: 81509
+      end: 81546
+    language: en
+  746246b7dd164710be9caedc97208049:
+    span:
+      start: 88594
+      end: 88619
+    language: en
+  a4298941c9c74a27bffb4e6c6954b252:
+    span:
+      start: 93975
+      end: 94034
+    language: en
+  cd8c5ed1a5914c6a8983d81413d51da6:
+    span:
+      start: 94610
+      end: 94684
+    language: en
+  7bc8006daeba4c0fa74255f9032b37f9:
+    span:
+      start: 144856
+      end: 144906
+    language: en
+  58db9a17f4aa46749969c670f8435734:
+    span:
+      start: 146021
+      end: 146149
+    language: und
+  c91865cdaa5e4714ab2f398285879b66:
+    span:
+      start: 148983
+      end: 149072
+    language: en
+  c44fd9c02a5c40e4885fd90f746ae4d3:
+    span:
+      start: 149072
+      end: 149101
+    language: und
+  40bf4ee914a144df872e0e8fe1974ef5:
+    span:
+      start: 151835
+      end: 151868
+    language: en
+  71b33a70a3994dbd8caa4b84243a2f42:
+    span:
+      start: 151868
+      end: 151907
+    language: und
+  cee8c918a629495c99fb2285ae8dd460:
+    span:
+      start: 156928
+      end: 156978
+    language: und
+  f887d2b91e884716a47a2297459292c6:
+    span:
+      start: 158545
+      end: 158593
+    language: en
+  de4725daf1954fd6aaa6d7c917b8b2a0:
+    span:
+      start: 171782
+      end: 171842
+    language: und
+  47f6386f54fb41b5981e1a432492e7cf:
+    span:
+      start: 171891
+      end: 171925
+    language: und
+  58db07a6773e4f94ae5eb9b32b4af1f4:
+    span:
+      start: 186948
+      end: 186987
+    language: en
+  e00bfe702ace46ba895925a9881300cf:
+    span:
+      start: 193031
+      end: 193081
+    language: en
